@@ -21,5 +21,4 @@ El presente proyecto es una implementación del clásico juego del Ahorcado en e
 
 ## Complemento con Programación Funcional
 
-Este proyecto demuestra el uso de programación funcional a través del método `map()`, que aplica una función a cada elemento de una secuencia para generar un nuevo resultado de manera concisa y eficiente.
-Esto nos ayuda a tener un orden claro y eficiente tanto al momento de ejecutar y programar el juego.
+Este proyecto demuestra el uso de programación funcional a través del uso de funciones, ya que aplica una función a cada elemento para generar un nuevo resultado de manera concisa y eficiente. Esto nos ayuda a tener un orden claro y eficiente tanto al momento de ejecutar y programar el juego.
